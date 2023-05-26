@@ -11,11 +11,11 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository
 
-    git clone https://github.com/azizullahsaeidi/new-todo
+    git clone https://github.com/azizullahsaeidi/todo-app
 
 Switch to the repo folder
 
-    cd new-todo
+    cd todo-app
 
 Install all the dependencies using composer
 
